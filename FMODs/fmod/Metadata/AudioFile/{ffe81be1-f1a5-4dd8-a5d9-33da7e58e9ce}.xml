@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ffe81be1-f1a5-4dd8-a5d9-33da7e58e9ce}">
+		<property name="assetPath">
+			<value>chiara/tras saltar, caida en metal, madera y piedra/caer en madera.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{10a80f2d-3166-4776-8292-cf4a300b3fc7}</destination>
+		</relationship>
+	</object>
+</objects>

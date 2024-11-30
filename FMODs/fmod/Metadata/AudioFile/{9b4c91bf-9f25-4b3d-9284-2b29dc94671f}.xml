@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9b4c91bf-9f25-4b3d-9284-2b29dc94671f}">
+		<property name="assetPath">
+			<value>copas.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.8793958333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{10a80f2d-3166-4776-8292-cf4a300b3fc7}</destination>
+		</relationship>
+	</object>
+</objects>

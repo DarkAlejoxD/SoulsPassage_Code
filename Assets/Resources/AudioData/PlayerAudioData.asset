@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa0369f836c86f4d96ca8f043bb42d7, type: 3}
+  m_Name: PlayerAudioData
+  m_EditorClassIdentifier: 
+  _audioFiles:
+  - Name: STEP_METAL
+    Event:
+      Guid:
+        Data1: 695373031
+        Data2: 1116393387
+        Data3: -2118456392
+        Data4: 248940137
+      Path: event:/SONIDOS FINALES/Pasos metal_Gerard
+  - Name: STEP_CARPET
+    Event:
+      Guid:
+        Data1: -1135621671
+        Data2: 1303477953
+        Data3: 148661915
+        Data4: 739499419
+      Path: event:/SONIDOS FINALES/Pasos maleta_Gerard
+  - Name: STEP_CLOUD
+    Event:
+      Guid:
+        Data1: 523252124
+        Data2: 1164417981
+        Data3: 1986426774
+        Data4: -1346921192
+      Path: event:/SONIDOS FINALES/Paso nube
+  - Name: STEP_WOOD
+    Event:
+      Guid:
+        Data1: -152139441
+        Data2: 1089866502
+        Data3: -1461152379
+        Data4: 579065501
+      Path: event:/SONIDOS FINALES/Pasos_Gerard
+  - Name: FALL_HIT
+    Event:
+      Guid:
+        Data1: -1164564030
+        Data2: 1221444947
+        Data3: 1883636126
+        Data4: -1393442507
+      Path: event:/SONIDOS FINALES/Caida_Madera_camilo
+  - Name: JUMP
+    Event:
+      Guid:
+        Data1: -609682439
+        Data2: 1190260504
+        Data3: -1655542353
+        Data4: -2139845421
+      Path: event:/SONIDOS FINALES/EmptyEvent
+  - Name: POLTER_START
+    Event:
+      Guid:
+        Data1: -727954449
+        Data2: 1243919838
+        Data3: -43052619
+        Data4: 1263721203
+      Path: event:/SONIDOS FINALES/Entrar del modo poltergeist
+  - Name: POLTER_STAY
+    Event:
+      Guid:
+        Data1: 230535891
+        Data2: 1311179427
+        Data3: 767404169
+        Data4: 394104714
+      Path: event:/SONIDOS FINALES/Poltergeist
+  - Name: POLTER_EXIT
+    Event:
+      Guid:
+        Data1: 1786329275
+        Data2: 1170624024
+        Data3: 1227366828
+        Data4: 14726954
+      Path: event:/SONIDOS FINALES/Salir del modo poltergeist
+  - Name: STINGER
+    Event:
+      Guid:
+        Data1: -1730474141
+        Data2: 1338825528
+        Data3: -454643791
+        Data4: 659037726
+      Path: event:/SONIDOS FINALES/Stinger Alma
+  - Name: HMM
+    Event:
+      Guid:
+        Data1: -609682439
+        Data2: 1190260504
+        Data3: -1655542353
+        Data4: -2139845421
+      Path: event:/SONIDOS FINALES/EmptyEvent
+  - Name: FRONTFLIP
+    Event:
+      Guid:
+        Data1: -1386617724
+        Data2: 1299969302
+        Data3: -1977280587
+        Data4: -1777569486
+      Path: event:/SONIDOS FINALES/Voltereta
+  - Name: GHOSTMODE
+    Event:
+      Guid:
+        Data1: 1627607704
+        Data2: 1216583883
+        Data3: 966860971
+        Data4: -1869017761
+      Path: event:/CHIARA/vista fantasmal
+  - Name: DEAD
+    Event:
+      Guid:
+        Data1: -869890135
+        Data2: 1249872481
+        Data3: -943552616
+        Data4: 989088641
+      Path: "event:/CHIARA/gru\xF1ido fuerza"

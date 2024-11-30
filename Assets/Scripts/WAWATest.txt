@@ -1,0 +1,8 @@
+Una opción es usar la opción de Aim Composer.
+- Sigue al player y lo sigue mirando aunque intente escapar de los límites de la cámara.
+- No controlo el ángulo de la cámara, depende de la posición de la cámara y del player.
+- No puedo controlar como yo quiero la distancia del player y el ángulo.
+
+
+x: -0.93, y: 0.56, z:0
+

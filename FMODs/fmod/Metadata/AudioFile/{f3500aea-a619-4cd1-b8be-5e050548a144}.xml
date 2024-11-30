@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f3500aea-a619-4cd1-b8be-5e050548a144}">
+		<property name="assetPath">
+			<value>correr metal.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.1696825396825399</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{10a80f2d-3166-4776-8292-cf4a300b3fc7}</destination>
+		</relationship>
+	</object>
+</objects>

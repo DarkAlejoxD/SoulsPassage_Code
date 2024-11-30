@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaa8f7254a7ef1a419b5b6e7fdc86e77, type: 3}
+  m_Name: BackupData
+  m_EditorClassIdentifier: 
+  _defaultMovement:
+    _acceleration: 70
+    _linearDecceleration: 50
+    _minSpeedToMove: 2
+    _maxSpeed: 6
+    _rotationLerp: 0.25
+    _canSprint: 1
+    _sprintMaxSpeed: 6
+    _canJump: 1
+    _angularAcceleration: 0.13
+    _maxAngularSpeed: 0.07
+  _grabbingLedgeMovement:
+    _acceleration: 10
+    _linearDecceleration: 10
+    _minSpeedToMove: 1
+    _maxSpeed: 2
+    _rotationLerp: 5
+    _canSprint: 0
+    _sprintMaxSpeed: 5
+    _canJump: 1
+    _angularAcceleration: 0
+    _maxAngularSpeed: 0
+  _pushingMovement:
+    _acceleration: 20
+    _linearDecceleration: 10
+    _minSpeedToMove: 2
+    _maxSpeed: 5
+    _rotationLerp: 5
+    _canSprint: 1
+    _sprintMaxSpeed: 5
+    _canJump: 0
+    _angularAcceleration: 0
+    _maxAngularSpeed: 0
+  _crounchMovement:
+    _acceleration: 20
+    _linearDecceleration: 10
+    _minSpeedToMove: 2
+    _maxSpeed: 5
+    _rotationLerp: 5
+    _canSprint: 1
+    _sprintMaxSpeed: 5
+    _canJump: 0
+    _angularAcceleration: 0
+    _maxAngularSpeed: 0
+  _onAirMovement:
+    _acceleration: 20
+    _linearDecceleration: 10
+    _minSpeedToMove: 2
+    _maxSpeed: 5
+    _rotationLerp: 5
+    _canSprint: 1
+    _sprintMaxSpeed: 5
+    _canJump: 0
+    _angularAcceleration: 0
+    _maxAngularSpeed: 0
+  _jumpValues:
+    _minHeight: 0
+    _maxHeight: 3
+    _timePressed: 0
+    _timeToReachHeight: 0
+    _coyoteTime: 0.4
+    _gravityMultiplier: 3
+    _downGravityMultiplier: 1.25
+    DEBUG_drawHeight: 1
+    DEBUG_drawCurve: 1
+    DEBUG_definitionOfJump: 8
+    DEBUG_forwardMovementPct: 1
+    DEBUG_drawCoyote: 0
+  _diveValues:
+    _startingSpeed: 25
+    _airDeceleration: 40
+    _groundDeceleration: 60
+    _cooldown: 1
+    _speedThreshold: 0.2
+  _interactionValues:
+    _interactionRange: 4
+  _poltergeistValues:
+    _poltergeistSpamCooldown: 0.5
+    _dotJoystickThreshold: 0.3
+    _poltergeistCooldown: 2
+    _poltergeistRadius: 4.06
+    _playerRadius: 0.32
+    _speed: 2
+    DEBUG_DrawPoltergeistRadius: 1
+  _otherValues:
+    _scaleMultiplicator: 0.1
+    _ghostViewCooldown: 0.3
+    _ghostViewRadius: 61.7
+    DEBUG_ShowGhostRadius: 0

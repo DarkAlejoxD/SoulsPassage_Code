@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{326fa816-8a41-42bd-a80d-63b8a587fec1}">
+		<property name="assetPath">
+			<value>correr piedra.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>18.858820861678005</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{10a80f2d-3166-4776-8292-cf4a300b3fc7}</destination>
+		</relationship>
+	</object>
+</objects>

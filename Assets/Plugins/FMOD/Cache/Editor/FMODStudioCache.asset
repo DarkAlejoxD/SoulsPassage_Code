@@ -1,0 +1,1794 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9154328947442167584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: FMODs/fmod/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638566644555095646
+  FileSizes:
+  - Name: Desktop
+    Value: 4028
+  Exists: 1
+--- !u!114 &-8384474161017862045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/vista fantasmal
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/vista fantasmal
+  Guid:
+    Data1: 1627607704
+    Data2: 1216583883
+    Data3: 966860971
+    Data4: -1869017761
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 56710
+--- !u!114 &-7977669396995516176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/maleta cayendo
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/maleta cayendo
+  Guid:
+    Data1: -2029713637
+    Data2: 1293241762
+    Data3: -1541214078
+    Data4: 121888563
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3500
+--- !u!114 &-7759522853951789069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/PARCA/Ultratumba
+  m_EditorClassIdentifier: 
+  Path: event:/PARCA/Ultratumba
+  Guid:
+    Data1: -1862773501
+    Data2: 1218193280
+    Data3: -666100817
+    Data4: 578190623
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 929410
+--- !u!114 &-7559510457103388618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/poltergeist 2
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/poltergeist 2
+  Guid:
+    Data1: -1875685639
+    Data2: 1280175367
+    Data3: -803961693
+    Data4: 2134591351
+  Banks:
+  - {fileID: -4470350354421804214}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 25854
+--- !u!114 &-7549738739406920131
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Stinger Alma
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Stinger Alma
+  Guid:
+    Data1: -1730474141
+    Data2: 1338825528
+    Data3: -454643791
+    Data4: 659037726
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8000
+--- !u!114 &-7413445325954595667
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Ventana abrir
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Ventana abrir
+  Guid:
+    Data1: -1292163866
+    Data2: 1130361813
+    Data3: -1437820234
+    Data4: -1488221055
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1250
+--- !u!114 &-7305167286931888775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: FMODs/fmod/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638566644555075622
+  FileSizes:
+  - Name: Desktop
+    Value: 42388
+  Exists: 1
+--- !u!114 &-7293652433600742447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/chin chin copas
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/chin chin copas
+  Guid:
+    Data1: 1032403506
+    Data2: 1080495387
+    Data3: 2011513754
+    Data4: 1590901067
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2879
+--- !u!114 &-7219245259131511730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/puerta 2
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/puerta 2
+  Guid:
+    Data1: 275836564
+    Data2: 1220879118
+    Data3: 1188509367
+    Data4: -844206401
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3243
+--- !u!114 &-7154410277567459143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/VAGON/caj\xF3n 2"
+  m_EditorClassIdentifier: 
+  Path: "event:/VAGON/caj\xF3n 2"
+  Guid:
+    Data1: 401545062
+    Data2: 1148084305
+    Data3: 1350467006
+    Data4: -1255867062
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1369
+--- !u!114 &-6835614999696374560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Sonidos_Camilo.assets.bank
+  m_EditorClassIdentifier: 
+  Path: FMODs/fmod/Build/Desktop/Sonidos_Camilo.assets.bank
+  Name: Sonidos_Camilo.assets
+  StudioPath: bank:/Sonidos_Camilo.assets
+  lastModified: 638548577378859894
+  FileSizes:
+  - Name: Desktop
+    Value: 550048
+  Exists: 1
+--- !u!114 &-6569767874601422422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Door-Slam
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Door-Slam
+  Guid:
+    Data1: 1746161419
+    Data2: 1245721911
+    Data3: -2103804794
+    Data4: -1167679143
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3253
+--- !u!114 &-6367427498119331789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/golpe contra cristal
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/golpe contra cristal
+  Guid:
+    Data1: -114700953
+    Data2: 1231035231
+    Data3: 1605469088
+    Data4: -454258522
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2487
+--- !u!114 &-6043554858299975909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Paso nube
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Paso nube
+  Guid:
+    Data1: 523252124
+    Data2: 1164417981
+    Data3: 1986426774
+    Data4: -1346921192
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 500
+--- !u!114 &-5924437733388961631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Salir del modo poltergeist
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Salir del modo poltergeist
+  Guid:
+    Data1: 1786329275
+    Data2: 1170624024
+    Data3: 1227366828
+    Data4: 14726954
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3564
+--- !u!114 &-4766978605095823753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/VAGON/m\xFAsica griega"
+  m_EditorClassIdentifier: 
+  Path: "event:/VAGON/m\xFAsica griega"
+  Guid:
+    Data1: -629191055
+    Data2: 1093449441
+    Data3: -1833971826
+    Data4: 1197720662
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 126538
+--- !u!114 &-4619419607902573183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Entrar del modo poltergeist
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Entrar del modo poltergeist
+  Guid:
+    Data1: -727954449
+    Data2: 1243919838
+    Data3: -43052619
+    Data4: 1263721203
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5063
+--- !u!114 &-4617934868756082000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Pasos metal_Gerard
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Pasos metal_Gerard
+  Guid:
+    Data1: 695373031
+    Data2: 1116393387
+    Data3: -2118456392
+    Data4: 248940137
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 253
+--- !u!114 &-4614758919431006077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/IMPULSO/Metal
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/IMPULSO/Metal
+  Guid:
+    Data1: 221344269
+    Data2: 1280813331
+    Data3: -76605787
+    Data4: 1036287334
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2339
+--- !u!114 &-4470350354421804214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Sonidos_Camilo.bank
+  m_EditorClassIdentifier: 
+  Path: FMODs/fmod/Build/Desktop/Sonidos_Camilo.bank
+  Name: Sonidos_Camilo
+  StudioPath: bank:/Sonidos_Camilo
+  lastModified: 638548577378496201
+  FileSizes:
+  - Name: Desktop
+    Value: 14716
+  Exists: 1
+--- !u!114 &-4167025274107754384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Lampara Cayendo
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Lampara Cayendo
+  Guid:
+    Data1: 1599278489
+    Data2: 1215682623
+    Data3: 1430762408
+    Data4: 1912232563
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4573
+--- !u!114 &-4107272735059539957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/VAGON/m\xFAsica jazz"
+  m_EditorClassIdentifier: 
+  Path: "event:/VAGON/m\xFAsica jazz"
+  Guid:
+    Data1: 953083296
+    Data2: 1244221893
+    Data3: -833115225
+    Data4: 1424060599
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 126538
+--- !u!114 &-3993322293475716790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Botella rodando
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Botella rodando
+  Guid:
+    Data1: -948657461
+    Data2: 1228464485
+    Data3: -447515716
+    Data4: -771231567
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 9.6
+  Length: 3625
+--- !u!114 &-3936679576111528642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/SONIDOS FINALES/\xD1ec-\xD1ec"
+  m_EditorClassIdentifier: 
+  Path: "event:/SONIDOS FINALES/\xD1ec-\xD1ec"
+  Guid:
+    Data1: 1315121469
+    Data2: 1336725718
+    Data3: -1719947870
+    Data4: -1262715357
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2250
+--- !u!114 &-3719634820421054834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/corcho
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/corcho
+  Guid:
+    Data1: -1937481382
+    Data2: 1138774567
+    Data3: -1448104298
+    Data4: 487273961
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4677
+--- !u!114 &-3633137480912459606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/PARCA/respiraci\xF3n"
+  m_EditorClassIdentifier: 
+  Path: "event:/PARCA/respiraci\xF3n"
+  Guid:
+    Data1: -621300445
+    Data2: 1134926873
+    Data3: 176071336
+    Data4: 663160870
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3741
+--- !u!114 &-3184055547932663020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Railes_camilo
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Railes_camilo
+  Guid:
+    Data1: 1185200863
+    Data2: 1179020507
+    Data3: 1408871869
+    Data4: -2147483559
+  Banks:
+  - {fileID: -4470350354421804214}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 25768
+--- !u!114 &-1211161679036408121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/CHIARA/ni\xF1a cornisa"
+  m_EditorClassIdentifier: 
+  Path: "event:/CHIARA/ni\xF1a cornisa"
+  Guid:
+    Data1: 1036677675
+    Data2: 1327462750
+    Data3: 1592771507
+    Data4: -1880033927
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8678
+--- !u!114 &-1040175791547084732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/EmptyEvent
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/EmptyEvent
+  Guid:
+    Data1: -609682439
+    Data2: 1190260504
+    Data3: -1655542353
+    Data4: -2139845421
+  Banks:
+  - {fileID: -4470350354421804214}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1011
+--- !u!114 &-507552105818540550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Pasos_Gerard
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Pasos_Gerard
+  Guid:
+    Data1: -152139441
+    Data2: 1089866502
+    Data3: -1461152379
+    Data4: 579065501
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 195
+--- !u!114 &-467616935422747134
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BoysSounds/Accionar palanca
+  m_EditorClassIdentifier: 
+  Path: event:/BoysSounds/Accionar palanca
+  Guid:
+    Data1: 1888992852
+    Data2: 1260607633
+    Data3: -1625470546
+    Data4: 569998023
+  Banks:
+  - {fileID: -4470350354421804214}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1000
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -9154328947442167584}
+  - {fileID: 6243816871532589670}
+  - {fileID: -7305167286931888775}
+  - {fileID: 5983155238584476866}
+  - {fileID: 8484751595707647245}
+  - {fileID: -6835614999696374560}
+  - {fileID: -4470350354421804214}
+  EditorEvents:
+  - {fileID: 7182822798705698219}
+  - {fileID: 3129940857956879807}
+  - {fileID: -7759522853951789069}
+  - {fileID: -4614758919431006077}
+  - {fileID: 8269947246948156798}
+  - {fileID: 3527440955289597989}
+  - {fileID: 3257398418695254704}
+  - {fileID: -3633137480912459606}
+  - {fileID: -1211161679036408121}
+  - {fileID: 4811052174051041529}
+  - {fileID: -7293652433600742447}
+  - {fileID: 6035560107975027691}
+  - {fileID: 8427406180239452922}
+  - {fileID: -3719634820421054834}
+  - {fileID: 8612007844373578919}
+  - {fileID: -7154410277567459143}
+  - {fileID: -6367427498119331789}
+  - {fileID: 6532839724764567540}
+  - {fileID: -4766978605095823753}
+  - {fileID: 3623295071578335847}
+  - {fileID: 166485146324447099}
+  - {fileID: -7219245259131511730}
+  - {fileID: 114327667338995835}
+  - {fileID: -8384474161017862045}
+  - {fileID: 4863852171357280588}
+  - {fileID: -4107272735059539957}
+  - {fileID: 6977938986252087090}
+  - {fileID: 6650349835196504939}
+  - {fileID: 3971226988009916015}
+  - {fileID: 913940569086669556}
+  - {fileID: 5229088442781077382}
+  - {fileID: 3705286997814760788}
+  - {fileID: -467616935422747134}
+  - {fileID: 3758520382516263562}
+  - {fileID: 1851888010903253173}
+  - {fileID: -3184055547932663020}
+  - {fileID: -507552105818540550}
+  - {fileID: -6569767874601422422}
+  - {fileID: -3936679576111528642}
+  - {fileID: -7549738739406920131}
+  - {fileID: 4531873482617202610}
+  - {fileID: -4167025274107754384}
+  - {fileID: -6043554858299975909}
+  - {fileID: -5924437733388961631}
+  - {fileID: -3993322293475716790}
+  - {fileID: 1637687424808942956}
+  - {fileID: 4661181987371702999}
+  - {fileID: -7413445325954595667}
+  - {fileID: -4617934868756082000}
+  - {fileID: -4619419607902573183}
+  - {fileID: 5801801416308392629}
+  - {fileID: -7977669396995516176}
+  - {fileID: 3780730518123125082}
+  - {fileID: -7559510457103388618}
+  - {fileID: 5590639294494480238}
+  - {fileID: 7253431449335165086}
+  - {fileID: 1215133285963357795}
+  - {fileID: -1040175791547084732}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -7305167286931888775}
+  StringsBanks:
+  - {fileID: -9154328947442167584}
+  cacheTime: 638566644555095646
+  cacheVersion: 131609
+--- !u!114 &114327667338995835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/VAGON/caj\xF3n 1"
+  m_EditorClassIdentifier: 
+  Path: "event:/VAGON/caj\xF3n 1"
+  Guid:
+    Data1: 1720899991
+    Data2: 1198868007
+    Data3: -1741349743
+    Data4: -1647464020
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1022
+--- !u!114 &166485146324447099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/cristales rotos
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/cristales rotos
+  Guid:
+    Data1: -777900913
+    Data2: 1172838719
+    Data3: -1493094516
+    Data4: -1504748217
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3062
+--- !u!114 &913940569086669556
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/maleta abrir
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/maleta abrir
+  Guid:
+    Data1: 1867957445
+    Data2: 1331758930
+    Data3: -1006093428
+    Data4: -1852008162
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 4040
+--- !u!114 &1215133285963357795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/BoysSounds/Ni\xF1a se cuestiona"
+  m_EditorClassIdentifier: 
+  Path: "event:/BoysSounds/Ni\xF1a se cuestiona"
+  Guid:
+    Data1: 878066240
+    Data2: 1292024805
+    Data3: -1253098865
+    Data4: -564108792
+  Banks:
+  - {fileID: -4470350354421804214}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2000
+--- !u!114 &1637687424808942956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Poltergeist
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Poltergeist
+  Guid:
+    Data1: 230535891
+    Data2: 1311179427
+    Data3: 767404169
+    Data4: 394104714
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 25854
+--- !u!114 &1851888010903253173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Caida_Madera_camilo
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Caida_Madera_camilo
+  Guid:
+    Data1: -1164564030
+    Data2: 1221444947
+    Data3: 1883636126
+    Data4: -1393442507
+  Banks:
+  - {fileID: -4470350354421804214}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 400
+--- !u!114 &3129940857956879807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/ANDAR/metal
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/ANDAR/metal
+  Guid:
+    Data1: 1620491010
+    Data2: 1113178301
+    Data3: 1278772671
+    Data4: 643477140
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8668
+--- !u!114 &3257398418695254704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/gas lata
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/gas lata
+  Guid:
+    Data1: 864717330
+    Data2: 1273174517
+    Data3: -142819445
+    Data4: -942056582
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 6962
+--- !u!114 &3527440955289597989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/ANDAR/madera
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/ANDAR/madera
+  Guid:
+    Data1: 1612250385
+    Data2: 1106656997
+    Data3: -125588047
+    Data4: -1337071050
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8516
+--- !u!114 &3623295071578335847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/CORRER/Metal
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/CORRER/Metal
+  Guid:
+    Data1: -449769100
+    Data2: 1122818009
+    Data3: 1394160544
+    Data4: -776438574
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3169
+--- !u!114 &3705286997814760788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/grito muerte
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/grito muerte
+  Guid:
+    Data1: 105979851
+    Data2: 1238854729
+    Data3: -749275222
+    Data4: 2046680860
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2446
+--- !u!114 &3758520382516263562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/ANDAR/piedra
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/ANDAR/piedra
+  Guid:
+    Data1: 1925874891
+    Data2: 1138589882
+    Data3: -447016004
+    Data4: 1561669881
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13329
+--- !u!114 &3780730518123125082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Vias tren
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Vias tren
+  Guid:
+    Data1: 1151368424
+    Data2: 1234303182
+    Data3: -798972505
+    Data4: -1399070695
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 300042
+--- !u!114 &3971226988009916015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/silbato tren
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/silbato tren
+  Guid:
+    Data1: 1047899845
+    Data2: 1217546247
+    Data3: -75376469
+    Data4: 1638828615
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 8222
+--- !u!114 &4531873482617202610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/maleta cayendo con madera
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/maleta cayendo con madera
+  Guid:
+    Data1: -2033747596
+    Data2: 1134026581
+    Data3: -971819898
+    Data4: 723003537
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2466
+--- !u!114 &4661181987371702999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Pasos maleta_Gerard
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Pasos maleta_Gerard
+  Guid:
+    Data1: -1135621671
+    Data2: 1303477953
+    Data3: 148661915
+    Data4: 739499419
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 406
+--- !u!114 &4811052174051041529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/telas ropa
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/telas ropa
+  Guid:
+    Data1: -1201255633
+    Data2: 1118143832
+    Data3: 2065015443
+    Data4: -1457109398
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 26640
+--- !u!114 &4863852171357280588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/IMPULSO/Madera
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/IMPULSO/Madera
+  Guid:
+    Data1: 888737182
+    Data2: 1230244826
+    Data3: 1784704926
+    Data4: -883992690
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1589
+--- !u!114 &5229088442781077382
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/VAGON/m\xFAsica tensi\xF3n 1"
+  m_EditorClassIdentifier: 
+  Path: "event:/VAGON/m\xFAsica tensi\xF3n 1"
+  Guid:
+    Data1: 1253704905
+    Data2: 1201292552
+    Data3: 413671812
+    Data4: 1134382637
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 42198
+--- !u!114 &5590639294494480238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Voltereta
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Voltereta
+  Guid:
+    Data1: -1386617724
+    Data2: 1299969302
+    Data3: -1977280587
+    Data4: -1777569486
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 136
+--- !u!114 &5801801416308392629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Impulso
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Impulso
+  Guid:
+    Data1: 211280367
+    Data2: 1235153051
+    Data3: -2060072318
+    Data4: -795588365
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 187
+--- !u!114 &5983155238584476866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Sonidos_Gerard.assets.bank
+  m_EditorClassIdentifier: 
+  Path: FMODs/fmod/Build/Desktop/Sonidos_Gerard.assets.bank
+  Name: Sonidos_Gerard.assets
+  StudioPath: bank:/Sonidos_Gerard.assets
+  lastModified: 638548587730162717
+  FileSizes:
+  - Name: Desktop
+    Value: 1150784
+  Exists: 1
+--- !u!114 &6035560107975027691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/puerta 1
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/puerta 1
+  Guid:
+    Data1: -992872904
+    Data2: 1172155885
+    Data3: 1404154296
+    Data4: -270825789
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2500
+--- !u!114 &6243816871532589670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.assets.bank
+  m_EditorClassIdentifier: 
+  Path: FMODs/fmod/Build/Desktop/Master.assets.bank
+  Name: Master.assets
+  StudioPath: bank:/Master.assets
+  lastModified: 638548587729251691
+  FileSizes:
+  - Name: Desktop
+    Value: 17657824
+  Exists: 1
+--- !u!114 &6532839724764567540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/CORRER/piedra
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/CORRER/piedra
+  Guid:
+    Data1: -113995928
+    Data2: 1231443256
+    Data3: 1188685482
+    Data4: 104097423
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 18858
+--- !u!114 &6650349835196504939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/interruptor
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/interruptor
+  Guid:
+    Data1: -1901542982
+    Data2: 1102282027
+    Data3: -1482165839
+    Data4: 2047068950
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2500
+--- !u!114 &6977938986252087090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/CHIARA/gru\xF1ido fuerza"
+  m_EditorClassIdentifier: 
+  Path: "event:/CHIARA/gru\xF1ido fuerza"
+  Guid:
+    Data1: -869890135
+    Data2: 1249872481
+    Data3: -943552616
+    Data4: 989088641
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 781
+--- !u!114 &7182822798705698219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/ventana
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/ventana
+  Guid:
+    Data1: 1073166082
+    Data2: 1331441122
+    Data3: 270535086
+    Data4: 1119709970
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2113
+--- !u!114 &7253431449335165086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SONIDOS FINALES/Salto
+  m_EditorClassIdentifier: 
+  Path: event:/SONIDOS FINALES/Salto
+  Guid:
+    Data1: -1067420776
+    Data2: 1152190874
+    Data3: 1996790671
+    Data4: -1175347931
+  Banks:
+  - {fileID: 8484751595707647245}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 187
+--- !u!114 &8269947246948156798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/CHIARA/CORRER/Madera
+  m_EditorClassIdentifier: 
+  Path: event:/CHIARA/CORRER/Madera
+  Guid:
+    Data1: 374250001
+    Data2: 1237828536
+    Data3: 1204868799
+    Data4: 1270946389
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3056
+--- !u!114 &8427406180239452922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VAGON/murmullos
+  m_EditorClassIdentifier: 
+  Path: event:/VAGON/murmullos
+  Guid:
+    Data1: 277177166
+    Data2: 1222744541
+    Data3: -1449801343
+    Data4: -1732428260
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 26090
+--- !u!114 &8484751595707647245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Sonidos_Gerard.bank
+  m_EditorClassIdentifier: 
+  Path: FMODs/fmod/Build/Desktop/Sonidos_Gerard.bank
+  Name: Sonidos_Gerard
+  StudioPath: bank:/Sonidos_Gerard
+  lastModified: 638548587729660767
+  FileSizes:
+  - Name: Desktop
+    Value: 28096
+  Exists: 1
+--- !u!114 &8612007844373578919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/VAGON/m\xFAsica tensi\xF3n 2"
+  m_EditorClassIdentifier: 
+  Path: "event:/VAGON/m\xFAsica tensi\xF3n 2"
+  Guid:
+    Data1: 348187746
+    Data2: 1294480528
+    Data3: 1675170962
+    Data4: -383733971
+  Banks:
+  - {fileID: -7305167286931888775}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 161927
